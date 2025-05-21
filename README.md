@@ -12,7 +12,7 @@ Ce site présente :
 
 ##  Aperçu en ligne
 
-[https://ton-pseudo.github.io/vitrine-teknopam](https://ton-pseudo.github.io/vitrine-teknopam)  
+ https://teknopam.github.io/vitrine/
 
 
 ---
